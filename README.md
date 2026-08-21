@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como atividade acadêmica para a disciplina de programação do curso de **Matemática Aplicada e Computacional da Universidade de São Paulo (USP)**.
+Este projeto foi desenvolvido como atividade acadêmica para a disciplina de Introdução à Computação do curso de **Matemática Aplicada e Computacional da Universidade de São Paulo (USP)**.
 
 O programa gera uma amostra aleatória de números reais dentro de um intervalo definido pelo usuário, calcula a frequência dos valores em classes pré-determinadas e exibe um histograma textual diretamente no terminal.
 
